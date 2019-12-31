@@ -92,6 +92,11 @@ ul li:hover a {
 	padding-bottom: 150px;
 }
 
+.hero img {
+	width: 100%;
+	object-fit: cover;
+}
+
 .light {
 	font-weight: bold;
 	color: #717070;
