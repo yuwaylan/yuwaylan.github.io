@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+/*
+RED		#f03a47
+BLUE	#0f4c81
+		#06d6a0
+yellow	#ffd166
+wite	#f6f4f3
+
+*/
+
 /* Body */
 html {
 	font-family: 'Noto Serif TC',
@@ -32,9 +41,11 @@ body {
 header {
 	width: 100%;
 	height: 5%;
-	background-color: #52bad5;
+	background-color: #0f4c81;
 	border-bottom: 1px solid #2C9AB7;
 	position: relative;
+	font-family: 'Noto Serif TC',
+		serif;
 }
 
 .logo {
@@ -338,7 +349,9 @@ footer {
 		display: none;
 	}
 
-	header nav ul {}
+	header nav ul {
+		color: #f6f4f3;
+	}
 
 	nav ul li {
 		margin-top: 0px;
@@ -396,7 +409,7 @@ footer {
 	}
 
 	.banner {
-		background-color: #2D9AB7;
+		background-color: #0f4c81;
 		background-image: none;
 	}
 
@@ -434,7 +447,7 @@ footer {
 		margin-right: 0px;
 		margin-bottom: 0px;
 		margin-left: 0px;
-		color: #043745;
+		color: #FFD166;
 	}
 
 	.container header nav {
@@ -465,7 +478,7 @@ footer {
 	}
 
 	nav ul li {
-		margin-top: 0px;
+		margin-top: -15px;
 		margin-right: 0px;
 		margin-bottom: 0px;
 		margin-left: 0px;
