@@ -480,17 +480,29 @@ footer {
 
 	.hero {
 		margin-top: 50px;
+		text-align: center;
+	}
+
+	.hero_header {
+		margin-top: 200px;
 
 	}
 
 	.hero_header h2 {
-		margin-top: 150px;
+		margin-top: 200px;
+
 	}
 
 	.hero img {
 		width: 100%;
 		margin-top: 90px;
+		margin-bottom: 30px;
 		object-fit: fill;
+	}
+
+	.tagline {
+		text-align: center;
+		margin: auto;
 	}
 
 	nav ul li {
