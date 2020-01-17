@@ -449,7 +449,7 @@ footer {
 	}
 }
 
-/* Small Tablets ---------------------------------------------------------------------------------------------------------------------------------------*/
+/* Small Tablets =========================================================================================================================*/
 @media (min-width: 321px)and (max-width: 767px) {
 	html {
 		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -546,6 +546,7 @@ footer {
 
 	.thumbnail {
 		width: 100%;
+		overflow: hidden;
 	}
 
 	.footer_column {
