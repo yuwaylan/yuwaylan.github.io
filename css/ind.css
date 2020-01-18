@@ -555,7 +555,7 @@ footer {
 	.thumbnail>p {
 		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 		margin-top: -30px;
-		background-color: #ffd166;
+		background-color: #d4f9ff;
 		padding-top: 10px;
 		padding-bottom: 10px;
 		width: 40.1vw;
@@ -566,7 +566,7 @@ footer {
 	}
 
 	.thumbnail img {
-		height: 35vw;
+		height: 40vw;
 		width: 40vw;
 	}
 
