@@ -545,16 +545,24 @@ footer {
 	}
 
 	.thumbnail {
-		width: 100%;
-
-
+		width: 99%;
 		overflow: hidden;
+	}
 
+	.thumbnail .spset {
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		background-color: #d4f9ff;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		width: 40.1vw;
+		transform: translate(2.2vw, -7vh);
+
+
+		font-size: 125%;
 	}
 
 	.thumbnail>p {
 		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-		margin-top: -30px;
 		background-color: #d4f9ff;
 		padding-top: 10px;
 		padding-bottom: 10px;
